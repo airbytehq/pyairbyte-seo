@@ -48,7 +48,7 @@ To run the project, execute the following command in the root of your project di
 python build_blogs.py
 ```
 
-This script will process according to your specifications and outputs.
+*To run the script for a specific set of sources, you can modify the list in the `sources.py` file.*
 
 ## Contributing
 
